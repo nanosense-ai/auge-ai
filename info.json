@@ -1,0 +1,18 @@
+[
+    {
+        "ai_name": "Mask Detection",
+        "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Mask+Detection.zip"
+    },
+    {
+        "ai_name": "Degree AI",
+        "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Mask+Detection.zip"
+    },
+    {
+        "ai_name": "Mono Dico",
+        "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Mask+Detection.zip"
+    },
+    {
+        "ai_name": "Measure Cell Area",
+        "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Mask+Detection.zip"
+    }
+]
