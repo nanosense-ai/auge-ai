@@ -1,17 +1,21 @@
 [
     {
+        "id": "61767500f8653a13b8cc6a6d",
         "ai_name": "Mask Detection",
         "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Mask+Detection.zip"
     },
     {
+        "id": "61767533256e9d4cdfd2a444",
         "ai_name": "Degree AI",
         "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Mask+Detection.zip"
     },
     {
+        "id": "61767541b9ad104704ebe7aa",
         "ai_name": "Mono Dico",
         "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Mask+Detection.zip"
     },
     {
+        "id": "6176754c717d8657fbe03bc5",
         "ai_name": "Measure Cell Area",
         "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Mask+Detection.zip"
     }
