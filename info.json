@@ -2,21 +2,28 @@
     "6176766f636eb15c5982abe6":{
         "ai_name": "Mask Detection",
         "version":"0.1.1",
-        "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Mask+Detection.zip"
+        "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Mask+Detection.zip",
+        "description": "Check if someone in front of the camera is wearing a mask or not"
     },
     "61767674ee243022e71045a0":{
         "ai_name": "Degree AI",
         "version":"0.2.0",
-        "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Degree+AI.zip"
+        "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Degree+AI.zip",
+        "description": "Identify the angle between two points"
+
     },
     "6176767a69a620d0852e0537":{
         "ai_name": "Mono Dico",
         "version":"0.3.0",
-        "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Mono+Dico.zip"
+        "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Mono+Dico.zip",
+        "description": "Classification of dicot or monocot samples"
+
     },
     "617676816cec159fe35a9625":{
         "ai_name": "Measure Cell Area",
         "version":"0.4.0",
-        "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Measure+Cell+Area.zip"
+        "link": "https://genosegad.s3.ap-southeast-1.amazonaws.com/Measure+Cell+Area.zip",
+        "description": "Take area measurement from sample"
+
     }
 }
