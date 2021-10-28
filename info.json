@@ -10,20 +10,17 @@
         "version":"0.2.0",
         "link": "https://auge-nanosense.s3.ap-southeast-1.amazonaws.com/Measure%2BDegree.zip",
         "description": "Identify the angle between two points"
-
     },
     "6176767a69a620d0852e0537":{
         "ai_name": "Mono Dico",
         "version":"0.3.0",
         "link": "https://auge-nanosense.s3.ap-southeast-1.amazonaws.com/Mono%2BDico.zip",
         "description": "Classification of dicot or monocot samples"
-
     },
     "617676816cec159fe35a9625":{
         "ai_name": "Measure Cell Area",
         "version":"0.4.0",
         "link": "https://auge-nanosense.s3.ap-southeast-1.amazonaws.com/Measure%2BCell%2BArea.zip",
         "description": "Take area measurement from sample"
-
     }
 }
